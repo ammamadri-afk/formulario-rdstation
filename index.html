@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário - RD Station</title>
+</head>
+<body style="display:flex;justify-content:center;align-items:center;height:100vh;background:#f5f5f5;">
+    <div role="main" id="cadastro-dd46e8fb87f448ac8065"></div>
+
+    <script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/rdstation-forms/stable/rdstation-forms.min.js"></script>
+    <script type="text/javascript">
+        new RDStationForms('cadastro-dd46e8fb87f448ac8065', 'null').createForm();
+    </script>
+</body>
+</html>
